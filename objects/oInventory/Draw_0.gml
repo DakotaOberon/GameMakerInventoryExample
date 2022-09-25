@@ -1,0 +1,2 @@
+// Draw inventory
+inventory.draw();
